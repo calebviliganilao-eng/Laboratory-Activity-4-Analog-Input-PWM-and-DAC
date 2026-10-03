@@ -1,6 +1,6 @@
 <img width="1410" height="789" alt="image" src="https://github.com/user-attachments/assets/ca604880-54c0-4c2a-af06-9d9723a4b9e7" /><img width="1402" height="702" alt="image" src="https://github.com/user-attachments/assets/4955ae65-6db6-4331-99c5-c7dcc845242c" /># Laboratory Experiment: ESP32 Analog I/O, PWM, and DAC
 
-**Student Name:** Miche Louie B. Acompañado
+**Student Name:** Caleb L. Viliganilao
 
 **Date:** September 30, 2026
 
@@ -62,15 +62,8 @@ To translate the 12-bit potentiometer readings (0–4095) into an 8-bit PWM sign
 
 ### Visual Documentation
 
-> `[INSERT PWM MINIMUM/LOW IMAGES HERE]`
+<img width="485" height="568" alt="image" src="https://github.com/user-attachments/assets/146af41f-be33-496f-9dbf-dbb6ac1732f9" />
 
-> `[INSERT PWM MID-RANGE IMAGES HERE]`
-
-> `[INSERT PWM HIGH IMAGES HERE]`
-
-> `[INSERT PWM MAXIMUM IMAGES HERE]`
-
-> `[INSERT ANY ADDITIONAL PWM IMAGES HERE]`
 
 ### Analysis of Predicted vs. Actual Findings
 
